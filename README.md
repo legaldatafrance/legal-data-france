@@ -109,7 +109,7 @@ For product, access, delivery, correction or support questions:
 
 ### V1 complète
 
-La version complète est disponible sous la forme d'un **achat unique à 699 €**.
+La version complète de **Legal Data France — V1** est disponible sous la forme d'un **achat unique à 699 €**.
 
 [**Acheter Legal Data France — V1 — 699 €**](https://legaldatafrance.lemonsqueezy.com/checkout/buy/9b3b7757-187f-4cd6-8dc1-c777f489cee6)
 
@@ -120,6 +120,15 @@ Elle comprend :
 - **44 318** exemples instruction/SFT
 - **83 567** chunks préparés pour le RAG
 
+### Source et licence
+
+Les données judiciaires sous-jacentes proviennent de l'open data judiciaire français produit par la **Cour de cassation** et distribué via **Judilibre** sous **Licence Ouverte / Open Licence 2.0 (Etalab)**.
+
 Pour les conditions d'achat, licence, mises à jour, remboursements et informations relatives aux données personnelles :
 
 [**Voir la documentation complète sur Hugging Face**](https://huggingface.co/datasets/legaldatafrance/legal-data-france-v1-sample)
+### Contact
+
+Pour toute question concernant l'accès, la livraison, les corrections ou le support :
+
+[**legaldatafrance@gmail.com**](mailto:legaldatafrance@gmail.com)
