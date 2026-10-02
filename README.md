@@ -1,3 +1,5 @@
+![Legal Data France — V1](legal-data-france-v1-github-banner.png)
+
 # Legal Data France — V1
 
 ## French Legal Dataset for RAG, NLP, Search & AI
