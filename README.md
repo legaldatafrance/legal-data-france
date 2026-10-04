@@ -37,7 +37,7 @@ The sample includes:
 
 The complete **Legal Data France — V1** release is available as a **one-time purchase for €699**.
 
-[**Purchase Legal Data France — V1 — €699**](https://legaldatafrance.lemonsqueezy.com/checkout/buy/9b3b7757-187f-4cd6-8dc1-c777f489cee6)
+[**Purchase Legal Data France — V1 — €699**](https://legaldatafrance.lemonsqueezy.com/checkout/buy/9b3b7757-187f-4cd6-8dc1-c777f489cee6?utm_source=github&utm_medium=repository&utm_campaign=legal_data_france_v1)
 
 The full release includes:
 
@@ -113,7 +113,7 @@ For product, access, delivery, correction or support questions:
 
 La version complète de **Legal Data France — V1** est disponible sous la forme d'un **achat unique à 699 €**.
 
-[**Acheter Legal Data France — V1 — 699 €**](https://legaldatafrance.lemonsqueezy.com/checkout/buy/9b3b7757-187f-4cd6-8dc1-c777f489cee6)
+[**Acheter Legal Data France — V1 — 699 €**](https://legaldatafrance.lemonsqueezy.com/checkout/buy/9b3b7757-187f-4cd6-8dc1-c777f489cee6?utm_source=github&utm_medium=repository&utm_campaign=legal_data_france_v1)
 
 Elle comprend :
 
